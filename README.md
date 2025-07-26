@@ -43,7 +43,6 @@
 | 🔨 Project | 📄 Description |
 |-----------|----------------|
 | 🧍‍♀️ [**Smart Posture Device**](https://github.com/SwethaDharmaraj/posture-alignment-project) | Real-time posture correction using ESP32 + MPU6050 sensors. |
-| 💧 [**Water Issue Portal**](https://github.com/SwethaDharmaraj/water-issue-portal) | Helps citizens report water issues to local municipalities. |
 | 📚 [**Library Management System**](https://github.com/SwethaDharmaraj/library-management) | Track borrowed/available books using Python + MongoDB. |
 | 🌐 [**Portfolio Website**](https://swethadharmaraj.netlify.app/) | Clean portfolio built with React + TailwindCSS to showcase all skills. |
 
@@ -74,8 +73,7 @@
 ### 📚 Learning Now
 
 - 🔧 Building advanced full-stack app architectures
-- 🤖 Integrating AI tools for automation and user interaction
-- 🎨 Crafting beautiful UI flows with Tailwind + Figma
+- 🤖 Integrating AI tools for automation and user interaction.
 
 ---
 
